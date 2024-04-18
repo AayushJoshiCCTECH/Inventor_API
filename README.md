@@ -27,8 +27,9 @@ The application consists of a Windows Form with two buttons:
 
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
 
-```
+
 Clone this repository to your local machine.
+
 ```
 git clone https://github.com/AayushJoshiCCTECH/Inventor_API.git
 ```
